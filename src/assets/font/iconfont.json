@@ -1,0 +1,16 @@
+{
+  "id": "3846395",
+  "name": "wt",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "9874512",
+      "name": "KHCFDC_群组",
+      "font_class": "qunzu",
+      "unicode": "e6d4",
+      "unicode_decimal": 59092
+    }
+  ]
+}
